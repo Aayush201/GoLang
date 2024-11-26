@@ -4,6 +4,8 @@ Used Postman for the API handling
 
 **How to Use**
 
+Create executable by go build 
+
 Run the server using 
 `go run main.go`
 
